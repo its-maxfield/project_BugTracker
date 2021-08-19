@@ -34,9 +34,12 @@
 }
 
 .body-item{
+	color: white;
+}
+
+.bodyCol{
 	max-height: 500px;
 	overflow: auto;
-	color: white;
 }
 
 .ticketRS{
